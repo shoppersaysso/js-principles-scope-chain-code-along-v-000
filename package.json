@@ -10,7 +10,7 @@
   "scripts": {
   "postinstall": "gem install learn-co",
   "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
-},
+  },
   "keywords": [
     "learn",
     "flatiron school",
